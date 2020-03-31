@@ -3,7 +3,7 @@ Operating Systems
 Project 2
 6 March 2020
 
-Project 2: Modify a Linux kernel to reduce the size of its image and the modules folder.
+Project 2: Modify a Linux kernel to reduce the size of its image and the modules folder while remaining bootable.
 
 
 10 items removed from kernel

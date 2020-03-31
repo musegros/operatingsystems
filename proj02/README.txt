@@ -3,6 +3,9 @@ Operating Systems
 Project 2
 6 March 2020
 
+Project 2: Modify a Linux kernel to reduce the size of its image and the modules folder.
+
+
 10 items removed from kernel
 
 1. Infiniband Support because it says it's used for high-performance computing, which I don't think we're using.

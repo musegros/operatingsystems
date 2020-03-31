@@ -3,8 +3,6 @@ File: shell.c
 Instructions to Compile: gcc shell.c -o shell
 Instructions to Run: After compiling, type ./shell
 
-Challenges: I had difficulty using the man pages for guidance on using getenv,
-setenv, etc. I had to see how other students implemented the functions to
-understand the syntax.
+A simple shell program capable of running other programs, changing directories, and listing the five most recently started processes.
 
 Sources: Google, man pages, other students.
